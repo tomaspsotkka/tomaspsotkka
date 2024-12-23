@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Tomas, and I'm a student focused on Object Oriented Programming!
+
+- 🛠️ I’m currently working on a [Booking Application](https://github.com/tomaspsotkka/BookingApplication), a C# app with a Web API, Blazor frontend, and SQLite database.
+- 🌱 I’m currently learning how the development process works in a real company.
+- ⚡ Fun fact: I'm fluent in 'Stack Overflow search'.
+
 <!--
 **tomaspsotkka/tomaspsotkka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
