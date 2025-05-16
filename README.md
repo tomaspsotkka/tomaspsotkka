@@ -1,10 +1,33 @@
 ## Hi there 👋
 
-My name is Tomas, and I'm a student focused on Object Oriented Programming!
+My name is Tomas, and welcome to my GitHub account!
 
-- 🛠️ I’m currently working on an [Portfolio Website](https://github.com/tomaspsotkka/PortfolioWebsite), a personal website built with Angular to showcase my projects and skills.
-- 🌱 I’m currently learning how the development process works in a real company.
+```bash
+Software Engineering Student | Full-Stack & Machine Learning | Meme Debugger
+```
+
+- 🛠️ I’m currently working on a [Greenhouse System](https://github.com/orgs/SEP4-Greenhouse/repositories), a cloud-hosted IoT system for greenhouse automation. This project combines sensor data, a cloud backend, machine learning model, and a web application to optimize greenhouse management.
+- 🌱 I’m always picking up new coding tricks and messing around with different languages just for fun.
 - ⚡ Fun fact: I'm fluent in 'Stack Overflow search'.
+
+### 🧠 Technologies & Tools
+
+#### Programming Languages  
+![Languages](https://skillicons.dev/icons?i=ts,js,cs,java,py,html,css,c)
+
+---
+
+#### Frameworks & Libraries  
+![Frameworks](https://skillicons.dev/icons?i=angular,react,dotnet)
+
+---
+
+#### Tools & Platforms  
+![Tools](https://skillicons.dev/icons?i=git,github,docker,kubernetes,azure,sqlite,postgres,vite)
+
+---
+
+- 📫 Reach me here or on [LinkedIn](https://www.linkedin.com/in/tomáš-psotka/)
 
 <!--
 **tomaspsotkka/tomaspsotkka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
