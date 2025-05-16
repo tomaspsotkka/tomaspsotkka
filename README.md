@@ -3,7 +3,7 @@
 My name is Tomas, and welcome to my GitHub account!
 
 ```bash
-Software Engineering Student | Full-Stack & Machine Learning | Meme Debugger
+Software Engineering Student | Full-Stack & Machine Learning 
 ```
 
 - 🛠️ I’m currently working on a [Greenhouse System](https://github.com/orgs/SEP4-Greenhouse/repositories), a cloud-hosted IoT system for greenhouse automation. This project combines sensor data, a cloud backend, machine learning model, and a web application to optimize greenhouse management.
